@@ -109,8 +109,7 @@ We may update this Privacy Policy. We will notify you of changes by posting the 
 
 For questions, data access, or deletion requests:
 
-- **Email**: ivpe.tk@gmail.com
-- **Repository**: https://github.com/ivpetk/logbook-skipper
+- **Email**: petrodox@gmail.com
 
 ## 12. Consent
 
